@@ -1,1 +1,0 @@
-nt thrie = xcc
